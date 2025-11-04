@@ -1,1 +1,1 @@
-# f
+A machine learning project that analyzes and predicts daily bicycle rental demand using weather, time, and environmental factors. The notebook includes data preprocessing, visualization, normalization, and regression modeling (Linear Regression, Random Forest, PCA). Built with Python, TensorFlow, and Scikit-learn.
